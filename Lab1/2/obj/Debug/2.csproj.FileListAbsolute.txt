@@ -1,0 +1,7 @@
+E:\РУСЛАН_РПМ\Lab1\2\bin\Debug\2.exe.config
+E:\РУСЛАН_РПМ\Lab1\2\bin\Debug\2.exe
+E:\РУСЛАН_РПМ\Lab1\2\bin\Debug\2.pdb
+E:\РУСЛАН_РПМ\Lab1\2\obj\Debug\2.csprojAssemblyReference.cache
+E:\РУСЛАН_РПМ\Lab1\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+E:\РУСЛАН_РПМ\Lab1\2\obj\Debug\2.exe
+E:\РУСЛАН_РПМ\Lab1\2\obj\Debug\2.pdb
